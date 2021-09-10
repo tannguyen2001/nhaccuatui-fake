@@ -1,0 +1,35 @@
+:root{
+      --black-color:#000;
+      --white-color:#fff;
+      --primary-color:#2daaed;
+}
+
+
+html{
+      font-family: sans-serif;
+}
+
+.color-not-bold{
+      font-size: 16px;
+      font-weight: 400;
+}
+
+.color-song-top-1{
+      color: red !important;
+}
+
+.color-song-top-2{
+      color: #5cc29d !important;
+}
+
+.color-song-top-3{
+      color: #f3a552 !important;
+}
+
+.color-song-top-4{
+      color: #4b91c3 !important;
+}
+
+.color-song-top-5{
+      color: #61687c !important;
+}

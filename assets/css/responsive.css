@@ -1,0 +1,67 @@
+@media (max-width:1023px){
+      .header__wrap {
+            padding-left: 10px;
+      }
+      .header__login{
+            margin-right: 12px;
+      }
+
+      .footer-note,
+      .footer--address{
+            display: none;
+      }
+      .footer__wrap {
+            justify-content: space-between;
+      }
+      .footer--phone{
+            padding-right: 20px;
+      }
+}
+
+@media (min-width:740px) and (max-width:1023px){
+      .header__nav-bar--list{
+            padding-left: 10px;
+            font-size: 12px;
+            min-width: 545px;
+      }
+      
+}
+
+
+@media (max-width:739px){
+      .header__text-link{
+            display: none;
+      }
+
+      .header__login-input{
+            display: none;
+      }
+
+      .content-the-mv-L{
+            padding: 4px;
+            
+      }
+
+      .content-the-mv-L__img{
+            height: 130px;
+      }
+
+      .content-the-song-top--img{
+            width: 115px;
+      }
+
+      .content-the-song-weekly--img{
+            width: 115px;
+            height: 115px;
+      }
+
+      .container-footer--text{
+            display: none;
+      }
+
+      .container-footer{
+            justify-content: space-between;
+      }
+      
+}
+
